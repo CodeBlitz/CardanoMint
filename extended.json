@@ -1,1 +1,6 @@
-add extended.json here
+{
+"name": "CardanoMint",
+"ticker": "CMINT",
+"homepage": "https://cardanomint.com/",
+"description": "Minting for life!"
+}
