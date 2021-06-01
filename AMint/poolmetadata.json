@@ -3,6 +3,6 @@
   "ticker": "AMINT",
   "description": "Maximize your profits with Maximum Mint, brought to you by Cardanomint.com",
   "homepage": "https://cardanomint.com",
-  "nonce": "1598286966"
+  "nonce": "1598286966",
   "extended": "https://raw.githubusercontent.com/CodeBlitz/CardanoMint/master/AMint/extended.json"
 }
