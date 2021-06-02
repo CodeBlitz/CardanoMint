@@ -6,19 +6,19 @@
         "location": "Las Vegas, Nevada",
         "social": {
             "twitter_handle": "https://twitter.com/CardanoMint",
-            "telegram_handle": "adapools_ops",
+            "telegram_handle": "MaximumMint James [AMINT]",
             "facebook_handle": "",
-            "youtube_handle": "",
+            "youtube_handle": "https://www.youtube.com/channel/UCjvxZzHHsN3tHQKEueFUyuQ",
             "twitch_handle": "",
-            "discord_handle": "",
+            "discord_handle": "MaximumMint [AMINT]#8698",
             "github_handle": ""
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
+            "name": "CardanoMint",
+            "addr": "8912 BroodMare Ave",
+            "city": "Las Vegas",
+            "country": "Nevada",
+            "company_id": "",
             "vat_id": "GB123456789"
         },
         "about": {
