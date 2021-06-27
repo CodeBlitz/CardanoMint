@@ -1,8 +1,8 @@
 {
     "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
     "info": {
-        "url_png_icon_64x64": "https://cardanomint.com/wp-content/uploads/2021/06/logo-CardanoMint-new-up-contrast-with-las-vegas.jpg",
-        "url_png_logo": "https://cardanomint.com/wp-content/uploads/2021/03/Cardano-mint-logo-png-e1616204526912.png",
+        "url_png_icon_64x64": "https://cardanomint.com/wp-content/uploads/2021/06/logo-CardanoMint-new-up-contrast-with-las-vegas-smallest.jpg",
+        "url_png_logo": "https://cardanomint.com/wp-content/uploads/2021/06/logo-CardanoMint-new-up-contrast-with-las-vegas-smallest.jpg",
         "location": "Las Vegas, Nevada",
         "social": {
             "twitter_handle": "CardanoMint",
